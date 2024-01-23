@@ -3,11 +3,11 @@
         "Unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "minecartcrafting:item4"
+                "recipe": "minecartcrafting:railways_jukebox"
             }
         }
     },
     "rewards": {
-        "function": "minecartcrafting:crafted_item4"
+        "function": "minecartcrafting:crafted_railways_jukebox"
     }
 }

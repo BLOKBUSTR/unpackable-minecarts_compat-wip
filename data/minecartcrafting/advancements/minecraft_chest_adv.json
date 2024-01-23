@@ -3,11 +3,11 @@
         "Unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "minecartcrafting:item1"
+                "recipe": "minecartcrafting:minecraft_chest"
             }
         }
     },
     "rewards": {
-        "function": "minecartcrafting:crafted_item1"
+        "function": "minecartcrafting:crafted_minecraft_chest"
     }
 }

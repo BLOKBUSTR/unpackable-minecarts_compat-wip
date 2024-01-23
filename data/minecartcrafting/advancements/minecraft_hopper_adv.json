@@ -3,11 +3,11 @@
         "Unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "minecartcrafting:item2"
+                "recipe": "minecartcrafting:minecraft_hopper"
             }
         }
     },
     "rewards": {
-        "function": "minecartcrafting:crafted_item2"
+        "function": "minecartcrafting:crafted_minecraft_hopper"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecartcrafting:minecraft_tnt"
+            }
+        }
+    },
+    "rewards": {
+        "function": "minecartcrafting:crafted_minecraft_tnt"
+    }
+}

@@ -3,11 +3,11 @@
         "Unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "minecartcrafting:item3"
+                "recipe": "minecartcrafting:railways_workbench"
             }
         }
     },
     "rewards": {
-        "function": "minecartcrafting:crafted_item3"
+        "function": "minecartcrafting:crafted_railways_workbench"
     }
 }
